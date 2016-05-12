@@ -4,6 +4,7 @@ using System.Collections;
 public class Enemy : MonoBehaviour {
 
     // Use this for initialization
+    /** This should NOT work.Very basic Ai testing.Needs to be fixed**/
     public float enemySpeed;
     Transform targetAmmo;
 
